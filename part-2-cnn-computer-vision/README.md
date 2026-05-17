@@ -35,6 +35,8 @@ images/
 
 labels.csv
 
+Link to data set : https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 ---
 
 # Problem Identification
