@@ -15,6 +15,7 @@ The objective is to automate defect detection using computer vision techniques f
 
 # Dataset Description
 
+Data Set used are images for this part
 The dataset contains images divided into four classes:
 
 | Class | Description |
